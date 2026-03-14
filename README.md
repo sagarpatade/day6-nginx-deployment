@@ -26,7 +26,9 @@ Welcome to Day 6 of our 30-Day DevOps Challenge! This repository contains the co
 
 Bash
 cd day6-nginx-deployment/scripts
+#
 chmod +x setup.sh
+#
 ./setup.sh
 
 5.Access the server's Public IPv4 address in a web browser!
